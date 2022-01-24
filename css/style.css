@@ -12,6 +12,7 @@
 .slider-item{
     height: calc(100vh - 57px);
 }
+  
 /* =============card============ */
 .round{
     border-radius: 25px;
@@ -19,4 +20,5 @@
 .hot-card{
     position: relative;
     top: -35px;
+
 }
