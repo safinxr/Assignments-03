@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,700;1,400&display=swap');
+
+.roboto{
+    
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* ==========Slider========== */
+.slider-item{
+    height: calc(100vh - 57px);
+}
