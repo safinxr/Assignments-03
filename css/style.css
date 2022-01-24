@@ -10,7 +10,7 @@
 
 /* ==========Slider========== */
 .slider-item{
-    height: calc(100vh - 57px);
+    height:100vh;
 }
   
 /* =============card============ */
